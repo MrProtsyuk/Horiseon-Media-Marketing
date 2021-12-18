@@ -29,4 +29,9 @@ Application loads with no errors.
 Application GitHub URL submitted.
 GitHub repository that contains application code.
 
+WHAT HAS BEEN EDITED:
+HTML file: created semantic elements, gave descriptions to images, added comments to HTML for ease of navigation, heading attributes in sequential order, title description.
+CSS file: Created comments on CSS styles, organized and consolidated CSS styles.
+
 COMPLETED APPLICATION LINK:
+<a href="file:///Users/markprotsyuk/Desktop/Horiseon-Media-Marketing/index.html#social-media-marketing">
