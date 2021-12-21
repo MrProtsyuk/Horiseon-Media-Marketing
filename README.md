@@ -32,3 +32,6 @@ GitHub repository that contains application code.
 WHAT HAS BEEN EDITED:
 HTML file: created semantic elements, gave descriptions to images, added comments to HTML for ease of navigation, heading attributes in sequential order, title description.
 CSS file: Created comments on CSS styles, organized and consolidated CSS styles.
+
+LIVE LINK:
+https://mrprotsyuk.github.io/Horiseon-Media-Marketing/
